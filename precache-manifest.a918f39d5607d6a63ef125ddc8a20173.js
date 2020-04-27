@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d22e965640761041faffe4191a644be",
+    "revision": "47cef44f35fcd579231f89bf02cb83fe",
     "url": "/rolodex/index.html"
   },
   {
